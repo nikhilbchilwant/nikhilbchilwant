@@ -12,7 +12,7 @@ The WSJ article '[To Facebook You're Worth $80.95](https://www.wsj.com/articles/
 
 This is my master thesis work. I solved the offensive comment detection problem for a startup. I used the zero shot learning and multi-task learning. The model gave accuracy of 88% and AUROC of 0.95. Visit the repository at [https://github.com/nikhilbchilwant/Offensive-comments](https://github.com/nikhilbchilwant/Offensive-comments).
 
-### 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
 - Microservices architecture
 - Spring Cloud, Hibernate
