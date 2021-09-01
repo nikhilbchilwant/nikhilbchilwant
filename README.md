@@ -2,7 +2,7 @@
 
 ## 🔭 My recent work ...
 
-#### 1. AdTech platform
+### 1. AdTech platform
 (Status: In progress)
 
 The WSJ article '[To Facebook You're Worth $80.95](https://www.wsj.com/articles/BL-CIOB-298)' got me interested into the digital advertisement domain. This project is an attempt to create a simplified version of the advertising platform. It will include all the applications involved in building the basic version of the complete ecosystem. Visit the repository at [https://github.com/nikhilbchilwant/AdTech](https://github.com/nikhilbchilwant/AdTech).
