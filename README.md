@@ -1,36 +1,48 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&multiline=true&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-## 🔭 My recent work ...
+# Hi — I’m Nikhil 👋
 
-### 1. AdTech platform
-(Status: In progress)
+Backend & Distributed Systems Engineer with 7+ years of experience
+building scalable, performance-focused Java backend systems in
+payments and regulated domains.
 
-The WSJ article '[To Facebook You're Worth $80.95](https://www.wsj.com/articles/BL-CIOB-298)' got me interested into the digital advertisement domain. This project is an attempt to create a simplified version of the advertising platform. It will include all the applications involved in building the basic version of the complete ecosystem. Visit the repository at [https://github.com/nikhilbchilwant/AdTech](https://github.com/nikhilbchilwant/AdTech).
+I specialize in:
+- distributed backend systems & APIs
+- concurrency, multithreading & throughput optimization
+- production debugging & reliability engineering
+- component ownership and collaboration across teams
 
-### 2. Offensive comment detection
-(Status: complete)
+---
 
-This is my master thesis work. I solved the offensive comment detection problem for a startup. I used the zero shot learning and multi-task learning. The model gave accuracy of 88% and AUROC of 0.95. Visit the repository at [https://github.com/nikhilbchilwant/Offensive-comments](https://github.com/nikhilbchilwant/Offensive-comments).
+## Experience
 
-## 🌱 I’m currently learning ...
+**Worldline — Application Developer (Germany)**  
+- Own reporting module in a production payment platform  
+- Delivered multithreaded batch processing (~2–3× faster throughput)  
+- Designed Java backend components and resolved production issues  
+- Led code reviews and contributed to Innovation Lab PoCs
 
-- Microservices architecture
-- Spring Cloud, Hibernate
-- DevOps
-- Docker
+**Amazon Lab126 — Software Development Engineer**  
+- Built distributed rule-engine event processing prototype  
+- Focus on performance, scalability and correctness under load
 
+---
 
-<!--
-**nikhilbchilwant/nikhilbchilwant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+**FlightScanner — Microservices Architecture Demo**  
+Containerised backend simulating a flight-search platform  
+Design patterns • REST APIs • concurrency • scalability trade-offs  
+https://github.com/nikhilbchilwant/FlightScanner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+Java • OOP • DSA • Multithreading • REST APIs  
+PostgreSQL • Oracle SQL • JUnit • Code Reviews • Agile  
+Docker / Kubernetes / AWS (working knowledge)
+
+---
+
+Open to roles in **backend, distributed systems, and platform engineering**.
